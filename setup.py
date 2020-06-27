@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setup(
-    name='helloworld',
+    name='helloworld_jw',
     version='0.0.1',
     description='say hello!',
     py_modules=['helloworld', 'f2'],
